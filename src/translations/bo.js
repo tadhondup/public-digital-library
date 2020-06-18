@@ -200,7 +200,7 @@ const boTranslation = {
       hide:"སྦེད།",
       preview:"སྔོན་ལྟ།",
       permalink:"དྲ་ཐག",
-      clipboard:"དྲ་ཐག་བཤུས་ཡོད།\nCTRL+Vབཀོལ་ནས་ཕོབ།",
+      clipboard:"དྲ་ཐག་བཤུས་ཡོད།\nCTRL+Vབཀོལ་ནས་ཕོབས།",
       from:"from",
       in:"in",
       of:"of",
@@ -324,10 +324,10 @@ const boTranslation = {
       about:"About",
       createdB:"Created By",
       extended:"Extended Properties",
-      showD:"Show Details",
-      hideD:"Hide Details",
-      searchO:"Search in outline",
-      start:"Start search",
+      showD:"ཞིབ་ཕྲ་སྟོན།s",
+      hideD:"ཕྱིར་བསྡུ།",
+      searchO:"དཀར་ཆག་ནང་འཚོལ།",
+      start:"འཚོལ་འགོ་རྩོམ།",
       reset:"Reset search"
 
    },
